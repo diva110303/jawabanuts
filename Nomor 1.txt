@@ -1,0 +1,4 @@
+matriks adalah type data yang mengacu sekumpulan elemen bertipe sama melalui 2 indeks (baris & kolom). Atau ada juga yang mengartikan matriks sebagai array dua dimensi. Jika array satu dimensi hanya terdiri satu baris dan beberapa kolom sedangkan matriks memiliki baris dan kolom lebih dari satu. Hubungannya adalah sama-sama memory yang fungsinya menyimpan sebuah nilai pada suati array yang ada didalam matrix
+
+Email : aherijanto@mimoapps.xyz
+subject NIM_Namaleng_Kelas.
